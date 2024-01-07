@@ -6,6 +6,14 @@
 *.user
 *.sln.docstates
 
+# source-code
+*.csproj
+*.sln
+*.cs
+*.nsi
+*.json
+*.ico
+
 # Build results
 
 [Dd]ebug/
@@ -132,3 +140,4 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+*.exe
