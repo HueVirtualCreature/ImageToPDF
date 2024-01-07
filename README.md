@@ -30,5 +30,7 @@ Enter Y/y to start the conversion. Any other input will cancel the operation.
 
 Lastly, as long as the command-line window it opened, the image files will be "locked". So close the command-line window and then you may delete the image files, if desired.
 
+https://github.com/HueVirtualCreature/ImageToPDF/assets/108766452/0cbcbb97-1f28-4600-8483-7ab0b6d4c8b9
+
 ## Contributing
 No
