@@ -6,6 +6,8 @@ You simple call the exe in a folder full of content (usually images) that you wa
 Sometimes, I get art books from....places that start with e-\*.org and ex*.org and the books come in as a dump of about 200 scanned images.
 I like to view these books in the form of a PDF.
 
+This was inspired by [minisoftwarelab's solution](https://github.com/minisoftwarelab/imap-Image-to-PDF-Converter-Application-For-Windows), but I wanted something faster and less cumbersome to use.
+
 ## Installation
 
 Simply run the installer.
