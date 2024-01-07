@@ -23,7 +23,7 @@ It only adds to the PATH variable if you answer yes to the related prompt, but I
 
 ## Usage
 
-Call ImagesToPDF in command-line in a folder full of images.
+Call ImageToPDF.exe in command-line in a folder full of images.
 You will get a list of files, sorted by name. Ideally, the image files are numbered, so they are sorted appropriately. If not, you will have to figure that out.
 
 Under the list, you will be prompted to confirm the conversion. The PDF will automatically use the name of the directory as the PDF file name, which you can see and review before confirming.
