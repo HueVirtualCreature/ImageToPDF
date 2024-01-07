@@ -8,10 +8,16 @@ I like to view these books in the form of a PDF.
 
 ## Installation
 
-Download the exe and run it in a folder full of images (via command-line).
+Simply run the installer.
+Unfortunately, it has only been tested on Windows 10 and needs .NET 7.0
 
-Better yet, put the exe in path somewhere and add said path into your Environment Variables.
-I do this because I use this tool fairly frequently.
+The installer does four things:
+- Copies the main ImageToPDF.exe to the installation directory
+- Creates an uninstaller
+- Creates a Start Menu link to the uninstaller
+- Adds the installation directory to the system's PATH Environment Variables
+
+It only adds to the PATH variable if you answer yes to the related prompt, but I would recommend that you do this.
 
 ## Usage
 
@@ -25,8 +31,4 @@ Enter Y/y to start the conversion. Any other input will cancel the operation.
 Lastly, as long as the command-line window it opened, the image files will be "locked". So close the command-line window and then you may delete the image files, if desired.
 
 ## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+No
